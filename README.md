@@ -1,2 +1,3 @@
-# 8BitALU
-A simple 8 bit ALU.
+# 4BitALU
+A simple 4 bit ALU built in logisim evolution.
+
